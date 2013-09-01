@@ -14,6 +14,6 @@
             <li><a tabindex="-1" href="${pageContext.request.contextPath}/home/logout">退出</a></li>
           </ul></li>
       </ul>
-      <a class="brand" href="index.html"><span class="first">远洋</span> <span class="second">后面管理系统</span></a>
+      <a class="brand" href="index.html"><span class="first">Competition</span> <span class="second">后台管理系统</span></a>
     </div>
   </div>
