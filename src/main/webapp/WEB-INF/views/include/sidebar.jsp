@@ -2,8 +2,7 @@
  <div class="sidebar-nav">
     <a href="#dashboard-menu" class="nav-header" data-toggle="collapse"><i class="icon-dashboard"></i>Center</a>
     <ul id="dashboard-menu" class="nav nav-list collapse in">
-      <li><a href="centers">Centers</a></li>
-      <li><a href="accounts">Accounts</a></li>
+      <li><a href="users">Users</a></li>
     </ul>
     <%-- 
     <a href="#error-menu" class="nav-header collapsed" data-toggle="collapse"><i class="icon-exclamation-sign"></i>Error
